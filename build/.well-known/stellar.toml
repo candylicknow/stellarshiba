@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA3DXP4V7OGNEEBUCHHLOE3VP3CC26TZLSVUKS6OCTKPCKMSLESOX5OX"
+"GAILOXXSW4XNYW235PPPRVHEYNEJPD3LULYWBAG2B7IADKPRPODZHN4R"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="landroverxlm"
-ORG_URL="https://www.landroverxlm.org"
-ORG_DESCRIPTION="Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover."
-ORG_TWITTER="@landroverxlm"
-ORG_LOGO="https://i.ibb.co/jfL5tWZ/land-1.jpg"
-ORG_OFFICIAL_EMAIL="landroverxlm@gmail.com"
+ORG_NAME="stellarshiba"
+ORG_URL="https://www.stellarshiba.org"
+ORG_DESCRIPTION="Stellar Shiba, is a decentralized cryptocurrency and does not have any smart contract utility."
+ORG_TWITTER="@stellarshiba"
+ORG_LOGO="https://i.ibb.co/N3q5zfj/stellarshiba.jpg"
+ORG_OFFICIAL_EMAIL="stellarshiba@gmail.com"
 
 
 [[CURRENCIES]]
-code="LandRoverXLM"
-issuer="GA3DXP4V7OGNEEBUCHHLOE3VP3CC26TZLSVUKS6OCTKPCKMSLESOX5OX"
+code="StellarShiba"
+issuer="GAILOXXSW4XNYW235PPPRVHEYNEJPD3LULYWBAG2B7IADKPRPODZHN4R"
 anchor_asset="false"
-name="Land Rover XLM"
-desc="Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover."
-conditions="Land Rover was granted a Royal Warrant by King George VI in 1951, and 50 years later, in 2001, it received a Queen's Award for Enterprise for outstanding contribution to international trade."
-image="https://i.ibb.co/jfL5tWZ/land-1.jpg"
+name="Stellar Shiba"
+desc="Stellar Shiba, is a decentralized cryptocurrency and does not have any smart contract utility."
+conditions=""
+image="https://i.ibb.co/N3q5zfj/stellarshiba.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LandRoverXLM was issued using the open and inclusive Stellar blockchain network.
+#StellarShiba was issued using the open and inclusive Stellar blockchain network.
